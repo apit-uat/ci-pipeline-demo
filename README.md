@@ -1,2 +1,3 @@
-# ci-pipeline-demo-dd596dba
-Demo repository for CI pipeline journey test
+# ci-pipeline-demo
+
+Updated README for CI pipeline demo repository.
